@@ -1,0 +1,14 @@
+1. Introducción 
+
+    El presente documento constituye la Especificación de Requerimientos de Software (ESRE) para el nuevo sistema de gestión de la empresa fúnebre familiar
+    "El buen descanso". Este proyecto surge de la necesidad estratégica de escalar el negocio al incursionar en el rubro de los cementerios privados.
+    Para ello, se requiere una plataforma digital robusta y segura que permita administrar eficientemente a los nuevos socios, sus grupos familiares y el inventario
+    de espacios funerarios disponibles.
+
+2. Alcance del producto / Software
+    
+   El sistema abarcará un entorno web compuesto por un formulario público para la captación de interesados, un portal de autogestión para los Socios Titulares
+   y un panel de administración con seguridad reforzada (2FA). Sus funcionalidades clave permitirán la aprobación de solicitudes, el registro de pagos
+   (afiliaciones y cuotas mensuales), la declaración de integrantes familiares y la asignación estructurada de espacios (parcelas, panteones y nichos).
+   El beneficio principal para el negocio es automatizar el proceso de admisión, garantizar la seguridad financiera bloqueando asignaciones
+   sin pago previo, y centralizar la información para un seguimiento rápido que prevenga la morosidad.
